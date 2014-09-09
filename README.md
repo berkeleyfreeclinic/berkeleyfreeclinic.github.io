@@ -48,23 +48,28 @@ Open EMR is a highly extendable record system that is primarily developed for cl
 + Free
 - As with any system that is "designed" for the BFC, it runs the risk of failing when if the designer leaves. Barry has indicated that he intends to stick around for a long time, however.  
 
-[*Practice Fusion*]
+*Practice Fusion*  
 Practice fusion was one of the first EHR systems we explored. However, practice fusion often emphasizes it's role as an administrative software and is very adept at dealing with problems that we do not face at the BFC.
 + Very responsive support team.
 + Free
 - Interface cluttered by options we do not necessarily need.
 - Charting is difficult for med sxn protocols.
 
-[*drChrono*]
+*drChrono*  
 DrChrono is another cloud-based EHR system that differs from other systems because it's interface is focused on "tablet" charting. While we won't be using tablets, it turns out that the way they have implemented their charting system may be exactly what the med sxn needs to fit with their protocol-based medicine style. The downside is that in order for us to get the features we want, it may not be free (~30/month)
 + Charting system fits our needs.  
 - Not free.  
 - Interface cluttered by options we do not necessarily need.  
 
-[*KareoEHR*]
+*KareoEHR*  
 KareoEHR is another free EHR system with a very intuitive interface and slimmed down options. However, it doesn't have the ability to store many of the demographic information we need and it doesn't look like we can work around it.  
 + Intuitive interface
 + Free
 - Limited demographic options.
 - Charting system is limited.
 
+*To Do*
+- Watch Barry's OpenEHR and Access videos (everyone)  
+- Explore practice fusion  
+- Explore drChrono (Jason M., Joon)  
+- Explore KareoEHR  
