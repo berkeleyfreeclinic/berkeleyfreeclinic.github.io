@@ -31,6 +31,7 @@ Report back by next Monday.
 - HepTEV Operational Needs (Joon)
 - Saturday Services Operational Needs
 - PCC Operational Needs
+- Lab Operational Needs (Phoebe, Simon)
 
 #####Action 2: EHR Comparative Analysis
 [*Microsoft Access*](https://vimeo.com/75456426)  
@@ -72,4 +73,4 @@ KareoEHR is another free EHR system with a very intuitive interface and slimmed 
 - Watch Barry's OpenEHR and Access videos (everyone)  
 - Explore practice fusion  
 - Explore drChrono (Jason M., Joon)  
-- Explore KareoEHR  
+- Explore KareoEHR (Linda)    
